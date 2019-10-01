@@ -16,7 +16,7 @@ An easy way to get started with JavaScript on the command line. [Read more about
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/node-babel-server.git`
+* `git clone git@github.com:amanami00/node-babel-server.git`
 * `cd node-babel-server`
 * `npm install`
 * `npm start`
